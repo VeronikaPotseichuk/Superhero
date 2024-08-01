@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Piter Parker",
+        "alias": "Spider Man"
+    },
+    {
+        "id": 2,
+        "name": "Bruce Weyne",
+        "alias": "Batman"
+    },
+    {
+        "id": 3,
+        "name": "Steve Rogers",
+        "alias": "Captain America"
+    },
+    {
+        "id": 4,
+        "name": "Clark Kent",
+        "alias": "Superman"
+    }
+]
